@@ -30,7 +30,7 @@ body {
   box-shadow: 0 4px 20px rgba(160, 82, 45, 0.2);
   display: flex;
   flex-direction: column;
-  height: 70vh;
+  height: 100vh;
   overflow: hidden;
 }
 
@@ -132,6 +132,7 @@ body {
 }
 
 .diary-content {
+  color: blue;
   background: #fff9f5;
   padding: 30px;
   border-radius: 12px;
@@ -154,7 +155,7 @@ body {
 /* Divine Universe Theme Styles */
 body {
   background: linear-gradient(to bottom, #0d0221, #1a032a);
-  color: #ffb3ff;
+  color: blue;
   font-family: 'Poppins', sans-serif;
   overflow-x: hidden;
 }
@@ -291,7 +292,7 @@ body {
 .section {
   margin-top: 60px;
   padding: 60px 20px;
-  color: white;
+  color:black;
   background: linear-gradient(145deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02));
   backdrop-filter: blur(10px);
   border-radius: 20px;
